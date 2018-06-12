@@ -1,0 +1,9 @@
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTraining\bin\Debug\netstandard2.0\EssentialTraining.deps.json
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTraining\bin\Debug\netstandard2.0\EssentialTraining.dll
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTraining\bin\Debug\netstandard2.0\EssentialTraining.pdb
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.csproj.CoreCompileInputs.cache
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.AssemblyInfoInputs.cache
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.AssemblyInfo.cs
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.dll
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.pdb
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.csprojResolveAssemblyReference.cache

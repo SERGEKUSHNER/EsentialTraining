@@ -1,0 +1,10 @@
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\NLog.config
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\EssentialTrainingApp.exe.config
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\EssentialTrainingApp.exe
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\EssentialTrainingApp.pdb
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\NLog.dll
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\NLog.xml
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.csproj.CopyComplete
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.exe
+C:\Users\seraph\source\repos\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.pdb
